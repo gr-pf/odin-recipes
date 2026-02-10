@@ -20,12 +20,14 @@ h2 {
     border-color: black;
 }
 
+#liste-recettes {
+    width: 300px;
+}
+
 .lien-recette {
     list-style: none;
     margin-top: 10px;
-    padding: 2em 1em;
+    padding: 2em;
     background-color: rgb(184, 245, 245);
-    border-radius: 50%;
-
-
+    border-radius: 80%;
 }
